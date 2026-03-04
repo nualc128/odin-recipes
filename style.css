@@ -1,0 +1,61 @@
+body {
+    background-color: hsl(120, 100%, 90%);
+}
+
+.food {
+    display: block;
+    border: 5px seagreen solid;
+    border-radius: 10px;
+    margin: 0px auto;
+}
+
+h1 {
+    font-size: 36px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+    margin-left: 20px;
+    color: darkslategrey;
+}
+
+.home {
+    display: block;
+    width: 50px;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 15px auto;
+    background-color: saddlebrown;
+    color: white;
+    text-align: center;
+}
+
+.ingridients {
+    background-color: hsl(60, 70%, 85%);
+    width: 300px;
+}
+
+.workflow {
+    background-color: hsl(320, 50%, 90%);
+    width: 600px;
+}
+
+.list {
+    padding-bottom: 8px;
+    padding-left: 4px;
+    border: 2px dotted red;
+    margin: 8px auto 0;
+}
+
+#bigTitle {
+    font-size: 80px;
+    font-weight: bold;
+    background-color: greenyellow;
+    border-radius: 20px;
+    padding: 0 10px;
+    width: max-content;
+    margin-bottom: 15px;
+    border: forestgreen 3px solid;
+}
+
+.recipe {
+font-size: 24px;
+}
